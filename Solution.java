@@ -189,4 +189,3 @@ public class Solution {
         return sbTry;
     }
 }
-// c:/гифки/Res.txt
